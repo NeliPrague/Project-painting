@@ -1,5 +1,5 @@
-header {
-  font-family: 'Josefin Sans', sans-serif;
+* {
+  font-family: 'Quicksand', sans-serif;
 }
 
 body {
@@ -21,6 +21,19 @@ body {
 
 .navbar-inverse .navbar-nav>li>a {
   color: white;
+}
+
+/* .container.myself {
+  display: flex;
+  flex-direction: row;
+} */
+
+.thumbnail.myself img {
+  float: left;
+}
+
+.myself {
+  float: right;
 }
 
 .name {
