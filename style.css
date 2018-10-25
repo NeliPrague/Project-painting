@@ -1,0 +1,41 @@
+header {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+  padding-top: 70px;
+}
+
+.jumbotron{
+  color: #2c3e50;
+  background: #ecf0f1;
+}
+
+.navbar-inverse {
+  background: #2c3e50;
+  color: white;
+}
+.navbar-inverse .navbar-brand, .navbar-inverse a{
+  color:white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+}
+
+.name {
+  text-decoration: underline;
+  margin-left: 15px;
+  padding-top: -20px;
+}
+
+.thumbnail img {
+  width: 100%;
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+}
+
+.thumbnail p {
+text-align: center;
+}
