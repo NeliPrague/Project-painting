@@ -27,14 +27,14 @@ body {
   display: flex;
   flex-direction: row;
 } */
-
+/*
 .thumbnail.myself img {
   float: left;
 }
 
 .myself {
   float: right;
-}
+} */
 
 .name {
   text-decoration: underline;
